@@ -3,7 +3,7 @@ import json
 import time
 
 # Replace with your own client ID and client secret
-CLIENT_ID = "5FE8A63D607D36C3483486E6E436DFE8D72257FFFCD725D63C1D6346F4314DAD"
+CLIENT_ID = "PATH-TO-YOUR-ID"
 CLIENT_SECRET = ""
 
 # Replace with the appropriate API endpoints for the simulator
